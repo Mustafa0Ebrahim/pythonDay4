@@ -46,7 +46,6 @@ elif choice == "2":
         print(f"remainingFlux is {remainingFlux}")
     except:
         print("Error! Please review the input Data")
-        continue
 elif choice == "3":
     print("Bye!")
 else:
